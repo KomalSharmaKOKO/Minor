@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Web Technology Lab</title>
+
+
+        
+    </head>
+
+<body bgcolor="#f1f1f1">
+
+<center><h1>Welcome to TMU</h1></center>
+<center>
+<a href=""> Home</a>&nbsp;&nbsp;
+<a href="About us.html" target="_blank"> About Us</a>&nbsp;&nbsp;
+<a href="Registration.html" target="_blank"> Registration</a>&nbsp;&nbsp;
+<a href="Contact us.html" target="_blank"> Contact Us</a>&nbsp;&nbsp;
+</center>
+<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+   
+<marquee>
+
+    <img src="C:\Users\student.DESKTOP-DIORUAP\Desktop\AKR\web1.webp" width="300" height="200">
+    
+    <img src="C:\Users\student.DESKTOP-DIORUAP\Desktop\AKR\web2.webp" width="300" height="200">
+    
+</marquee>
+
+<h2>About TMU</h2>
+
+<p font>TMU provides a unique environment for students to grow under the guidance of experienced academicians and acquire the creative and technical skills demanded to make them industry ready. Our brilliant faculty and staff form a dedicated team committed to the mission of the University. Being a dynamic, research-oriented University devoted to developing life-saving discoveries to address some of the most pressing global challenges.</p>
+
+<h2> Course Details</h2>
+
+<table border="1">
+
+    <tr>
+        <th>Course Name</th>
+        <th>Duration</th>
+        <th>Fees</th>
+        <th>Eligibility</th>
+      
+    </tr>
+    <tr>
+        <td>B.tech</td>
+        <td>4 years</td>
+        <td>120000</td>
+        <td>Minimum 60% in 12th.</td>
+    </tr>
+    <tr>
+        <td>BCA</td>
+        <td>3 years</td>
+        <td>60000</td>
+        <td>Minimum 60% in 12th.</td>
+    </tr>
+    <tr>
+        <td>M.tech</td>
+        <td>2 years</td>
+        <td>80000</td>
+        <td>Minimum 65% in 12th.</td>
+    </tr>
+    <tr>
+        <td>MCA</td>
+        <td>2 years</td>
+        <td>70000</td>
+        <td>Minimum 55% in 12th.</td>
+    </tr>
+
+</table>
+
+<div><h2>Documents List for Admission</h2>
+
+<ul> 
+    <li>10th Marksheet</li>
+            <ul>
+              <li>Original</li>
+              <li>Duplicate</li>
+            </ul>
+    <li>12th Marksheet</li>
+    <li>Migration</li>
+    <li>Adhaarcard</li>
+    <li>10 Photos</li>
+    <li>Transfer Certificate</li>
+    
+</ul>
+</div>
+<div><h2>Documents List for Scholarship</h2>
+
+<ol> 
+    <li>10th Marksheet</li>
+    <li>12th Marksheet</li>
+    <li>Migration</li>
+    <li>Adhaarcard</li>
+    <li>10 Photos</li>
+    
+</ol>
+
+<ol type="A"> 
+    <li>10th Marksheet</li>
+    <li>12th Marksheet</li>
+    <li>Migration</li>
+    <li>Adhaarcard</li>
+    <li>10 Photos</li>
+    
+</ol>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+
+    <a href="Basic.html">Home</a>&nbsp;&nbsp;
+    <a href="About us.html" target="_blank">About Us</a>&nbsp;&nbsp;
+    <a href="Registration.html" target="_blank">Registration</a>&nbsp;&nbsp;
+    <a href="Contact us.html" target="_blank">Contact Us</a>&nbsp;&nbsp;
+
+</center><br><br>
+
+
+
+<h2>Student Registration Form</h2>
+
+<form>
+   <p>Name:<input type="text" name="textfield"></p> 
+   <p>Father Name:<input type="text" name="textfield"></p> 
+   <p>Mother Name:<input type="text" name="textfield"></p> 
+   <p>Address:<input type="text" name="textfield"></p>
+   <p>User Name:<input type="text" name="textfield"></p>
+   <p>Password:<input type="password" name="textfield"></p>
+   <p>Button:<input type="Button" name="textfield" value="click"></p>
+   <p>Gender:
+         <input type="radio" name="textfield">Male
+         <input type="radio" name="textfield">Female
+         <input type="radio" name="textfield">Other
+        </p>
+
+</form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+<p>Web Technology is best way to develope web pages for websites.</p>
+<p>Web Technology is best way to develope web pages for websites.</p>
+
+<b>Web Technology is best.</b><br><br>
+
+ <strong>Web Technology is best.</strong><br><br>
+
+    <i>Web Technology is best.</i><br><br>
+
+    <u>Web Technology is best.</u><br><br>
+
+    <mark>Web Technology is best.</mark><br><br>
+
+    <p>Web Technology <sup>is</sup> best.</p>
+
+    <p>Web Technology <sub>is</sub> best.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
